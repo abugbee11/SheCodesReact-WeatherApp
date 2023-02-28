@@ -1,0 +1,19 @@
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+  color: black;
+}
+.WeatherForecastDay {
+  font-size: 16px;
+}
+
+.weather-forecast-temperature-max {
+  font-weight: bold;
+}
+.weather-forecast-temperature-min {
+  opacity: 0.5;
+  margin-left: 4px;
+}
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
