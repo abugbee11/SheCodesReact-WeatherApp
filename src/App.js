@@ -17,7 +17,7 @@ export default function App() {
           </a>{" "}
           available on{" "}
           <a
-            href="https://github.com/abugbee11/Weather-React-Application"
+            href="https://github.com/abugbee11/SheCodesReact-WeatherApp"
             target="_blank"
             rel="noreferrer"
           >

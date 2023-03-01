@@ -11,7 +11,7 @@ export default function WeatherForecast() {
 
   let apiKey = "0b3e84o47fbcat613600bf4527c3e4e0";
   let city = "Boston";
-  let apiUrl = `https://api.shecodes.io/weather/v1/current?query=${city}&key=${apiKey}&units=imperial`;
+  let apiUrl = `https://api.shecodes.io/weather/v1/forecast?query=${city}&key=${apiKey}&units=imperial`;
 
   axios.get(apiUrl).then(handleResponse);
 
