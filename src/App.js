@@ -25,7 +25,7 @@ export default function App() {
           </a>{" "}
           and hosted by{" "}
           <a
-            href="https://stately-kataifi-ad4a69.netlify.app/"
+            href="https://jolly-buttercream-7c44fe.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
