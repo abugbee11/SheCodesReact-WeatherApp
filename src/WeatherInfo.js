@@ -1,5 +1,4 @@
 import FormattedDate from "./FormattedDate";
-import WeatherForecast from "./WeatherForecast";
 import WeatherIcon from "./WeatherIcon";
 import WeatherTemperature from "./WeatherTemperature";
 
@@ -32,9 +31,6 @@ export default function WeatherInfo(props) {
             </ul>
           </div>
         </div>
-      </div>
-      <div className="weather-forecast">
-        <WeatherForecast />
       </div>
     </div>
   );
